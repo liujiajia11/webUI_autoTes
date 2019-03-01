@@ -1,0 +1,176 @@
+2019-02-28 10:40:41,897 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-28 10:40:41,897 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-28 10:40:45,244 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-28 10:40:45,664 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-28 10:40:46,812 - BrowserEngine -INFO -Maximize the current window
+2019-02-28 10:40:46,816 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-28 10:40:46,912 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-28 10:40:47,016 - BasePage -INFO -输入内容：123456
+2019-02-28 10:40:47,044 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-28 10:40:47,096 - BasePage -INFO -输入内容：123456
+2019-02-28 10:40:47,124 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:40:47,172 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:40:47,176 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:40:50,244 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 10:40:50,508 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 10:40:50,560 - BasePage -INFO -找到页面元素--('id', 'newspecial')
+2019-02-28 10:40:50,860 - BasePage -INFO -点击按钮:('id', 'newspecial')
+2019-02-28 10:40:50,892 - BasePage -INFO -找到页面元素--('name', 'subject')
+2019-02-28 10:40:50,956 - BasePage -INFO -输入内容：新帖1
+2019-02-28 10:40:50,968 - BasePage -INFO -发现frame
+2019-02-28 10:40:50,996 - BasePage -INFO -找到页面元素--('css selector', 'body')
+2019-02-28 10:40:51,052 - BasePage -INFO -输入内容：新帖的内容
+2019-02-28 10:40:51,056 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:40:51,080 - BasePage -INFO -找到页面元素--('id', 'postsubmit')
+2019-02-28 10:40:51,176 - BasePage -INFO -点击按钮:('id', 'postsubmit')
+2019-02-28 10:41:07,190 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:07,290 - BasePage -INFO -找到页面元素--('id', 'fastpostmessage')
+2019-02-28 10:41:07,370 - BasePage -INFO -输入内容：回复新帖1内容....
+2019-02-28 10:41:07,406 - BasePage -INFO -找到页面元素--('id', 'fastpostsubmit')
+2019-02-28 10:41:07,650 - BasePage -INFO -点击按钮:('id', 'fastpostsubmit')
+2019-02-28 10:41:14,736 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x0000021DB6AEECC0>页面中没有找到('css selector', '#um > p:nth-child(2) > a:nth-child(13)')元素
+2019-02-28 10:41:15,032 - BasePage -INFO -获得截图并保存到：/screenshorts中
+2019-02-28 10:41:15,032 - BasePage -ERROR -点击按钮失败:('css selector', '#um > p:nth-child(2) > a:nth-child(13)')
+2019-02-28 10:41:15,308 - BasePage -INFO -获得截图并保存到：/screenshorts中
+2019-02-28 10:41:15,312 - BrowserEngine -INFO -Now Close and quit the browser.
+2019-02-28 10:41:17,396 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-28 10:41:17,396 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-28 10:41:20,752 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-28 10:41:21,116 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-28 10:41:22,261 - BrowserEngine -INFO -Maximize the current window
+2019-02-28 10:41:22,265 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-28 10:41:22,353 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-28 10:41:22,417 - BasePage -INFO -输入内容：admin
+2019-02-28 10:41:22,445 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-28 10:41:22,497 - BasePage -INFO -输入内容：admin
+2019-02-28 10:41:22,525 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:41:22,573 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:41:22,577 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:25,614 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 10:41:25,954 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 10:41:25,962 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:29,018 - BasePage -INFO -找到页面元素--('name', 'moderate[]')
+2019-02-28 10:41:29,066 - BasePage -INFO -点击按钮:('name', 'moderate[]')
+2019-02-28 10:41:29,110 - BasePage -INFO -找到页面元素--('css selector', '#mdly > p:nth-child(6) > strong:nth-child(1) > a')
+2019-02-28 10:41:29,286 - BasePage -INFO -点击按钮:('css selector', '#mdly > p:nth-child(6) > strong:nth-child(1) > a')
+2019-02-28 10:41:29,330 - BasePage -INFO -找到页面元素--('name', 'modsubmit')
+2019-02-28 10:41:29,710 - BasePage -INFO -点击按钮:('name', 'modsubmit')
+2019-02-28 10:41:29,718 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:29,754 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="um"]/p[1]/a[6]')
+2019-02-28 10:41:29,842 - BasePage -INFO -点击按钮:('xpath', '//*[@id="um"]/p[1]/a[6]')
+2019-02-28 10:41:29,850 - BasePage -INFO -激活第1个窗口成功
+2019-02-28 10:41:30,902 - BasePage -INFO -找到页面元素--('name', 'admin_password')
+2019-02-28 10:41:30,950 - BasePage -INFO -输入内容：admin
+2019-02-28 10:41:30,978 - BasePage -INFO -找到页面元素--('name', 'submit')
+2019-02-28 10:41:50,972 - BasePage -INFO -点击按钮:('name', 'submit')
+2019-02-28 10:41:50,984 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:51,060 - BasePage -INFO -找到页面元素--('id', 'header_forum')
+2019-02-28 10:41:51,260 - BasePage -INFO -点击按钮:('id', 'header_forum')
+2019-02-28 10:41:51,264 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:51,276 - BasePage -INFO -发现frame
+2019-02-28 10:41:51,304 - BasePage -INFO -找到页面元素--('css selector', '#cpform > table > tbody:nth-child(3) > tr > td:nth-child(2) > div > a')
+2019-02-28 10:41:51,404 - BasePage -INFO -点击按钮:('css selector', '#cpform > table > tbody:nth-child(3) > tr > td:nth-child(2) > div > a')
+2019-02-28 10:41:51,433 - BasePage -INFO -找到页面元素--('id', 'submit_editsubmit')
+2019-02-28 10:41:51,660 - BasePage -INFO -点击按钮:('id', 'submit_editsubmit')
+2019-02-28 10:41:51,664 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:51,692 - BasePage -INFO -找到页面元素--('css selector', '#frameuinfo> p:nth-child(1) > a')
+2019-02-28 10:41:51,972 - BasePage -INFO -点击按钮:('css selector', '#frameuinfo> p:nth-child(1) > a')
+2019-02-28 10:41:51,980 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:52,012 - BasePage -INFO -找到页面元素--('css selector', '#um > p:nth-child(2) > a:nth-child(18)')
+2019-02-28 10:41:52,208 - BasePage -INFO -点击按钮:('css selector', '#um > p:nth-child(2) > a:nth-child(18)')
+2019-02-28 10:41:54,366 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-28 10:41:54,426 - BasePage -INFO -输入内容：123456
+2019-02-28 10:41:54,450 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-28 10:41:54,502 - BasePage -INFO -输入内容：123456
+2019-02-28 10:41:54,530 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:41:54,574 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:41:57,585 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:57,629 - BasePage -INFO -找到页面元素--('css selector', '#category_1 > table > tbody > tr:nth-child(1) > td:nth-child(2) > h2 > a')
+2019-02-28 10:41:57,849 - BasePage -INFO -点击按钮:('css selector', '#category_1 > table > tbody > tr:nth-child(1) > td:nth-child(2) > h2 > a')
+2019-02-28 10:41:57,877 - BasePage -INFO -找到页面元素--('id', 'newspecial')
+2019-02-28 10:41:58,189 - BasePage -INFO -点击按钮:('id', 'newspecial')
+2019-02-28 10:41:58,217 - BasePage -INFO -找到页面元素--('name', 'subject')
+2019-02-28 10:41:58,281 - BasePage -INFO -输入内容：新帖2
+2019-02-28 10:41:58,293 - BasePage -INFO -发现frame
+2019-02-28 10:41:58,321 - BasePage -INFO -找到页面元素--('css selector', 'body')
+2019-02-28 10:41:58,381 - BasePage -INFO -输入内容：新帖2的内容
+2019-02-28 10:41:58,385 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:58,413 - BasePage -INFO -找到页面元素--('id', 'postsubmit')
+2019-02-28 10:41:58,513 - BasePage -INFO -点击按钮:('id', 'postsubmit')
+2019-02-28 10:41:58,521 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:41:59,529 - BasePage -INFO -找到页面元素--('id', 'fastpostmessage')
+2019-02-28 10:41:59,745 - BasePage -INFO -输入内容：新帖2的回复内容
+2019-02-28 10:41:59,777 - BasePage -INFO -找到页面元素--('id', 'fastpostsubmit')
+2019-02-28 10:42:00,009 - BasePage -INFO -点击按钮:('id', 'fastpostsubmit')
+2019-02-28 10:42:00,009 - BrowserEngine -INFO -Now Close and quit the browser.
+2019-02-28 10:42:02,093 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-28 10:42:02,093 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-28 10:42:05,321 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-28 10:42:05,741 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-28 10:42:06,861 - BrowserEngine -INFO -Maximize the current window
+2019-02-28 10:42:06,861 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-28 10:42:06,893 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-28 10:42:06,977 - BasePage -INFO -输入内容：123456
+2019-02-28 10:42:07,009 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-28 10:42:07,073 - BasePage -INFO -输入内容：123456
+2019-02-28 10:42:07,109 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:42:07,169 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:42:11,197 - BasePage -INFO -找到页面元素--('css selector', '#scbar_txt')
+2019-02-28 10:42:11,269 - BasePage -INFO -输入内容：haotest
+2019-02-28 10:42:11,301 - BasePage -INFO -找到页面元素--('id', 'scbar_btn')
+2019-02-28 10:42:11,373 - BasePage -INFO -点击按钮:('id', 'scbar_btn')
+2019-02-28 10:42:11,381 - BasePage -INFO -激活第1个窗口成功
+2019-02-28 10:42:11,385 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:42:12,441 - BasePage -INFO -找到页面元素--('css selector', 'h3 a')
+2019-02-28 10:42:12,505 - BasePage -INFO -点击按钮:('css selector', 'h3 a')
+2019-02-28 10:42:12,509 - BasePage -INFO -激活第2个窗口成功
+2019-02-28 10:42:12,513 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:42:13,569 - BasePage -INFO -找到页面元素--('id', 'thread_subject')
+2019-02-28 10:42:13,601 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="a0681da42a3483bbc0393cf20292f98e", element="0.061892422238438716-1")>元素text成功。
+2019-02-28 10:42:13,601 - BrowserEngine -INFO -Now Close and quit the browser.
+2019-02-28 10:42:15,729 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-28 10:42:15,729 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-28 10:42:19,153 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-28 10:42:19,553 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-28 10:42:20,697 - BrowserEngine -INFO -Maximize the current window
+2019-02-28 10:42:20,701 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-28 10:42:20,765 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-28 10:42:20,869 - BasePage -INFO -输入内容：123456
+2019-02-28 10:42:20,893 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-28 10:42:20,945 - BasePage -INFO -输入内容：123456
+2019-02-28 10:42:20,973 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:42:21,021 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 10:42:21,025 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:42:24,053 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 10:42:24,309 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 10:42:24,393 - BasePage -INFO -找到页面元素--('id', 'newspecial')
+2019-02-28 10:42:24,425 - BasePage -INFO -悬停成功
+2019-02-28 10:42:24,461 - BasePage -INFO -找到页面元素--('css selector', '#newspecial_menu > li.poll > a')
+2019-02-28 10:42:24,825 - BasePage -INFO -点击按钮:('css selector', '#newspecial_menu > li.poll > a')
+2019-02-28 10:42:24,833 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:42:24,865 - BasePage -INFO -找到页面元素--('name', 'subject')
+2019-02-28 10:42:24,933 - BasePage -INFO -输入内容：学习
+2019-02-28 10:42:24,965 - BasePage -INFO -找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(1) > input')
+2019-02-28 10:42:25,033 - BasePage -INFO -输入内容：python
+2019-02-28 10:42:25,065 - BasePage -INFO -找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(2) > input')
+2019-02-28 10:42:25,125 - BasePage -INFO -输入内容：软件测试
+2019-02-28 10:42:25,153 - BasePage -INFO -找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(3) > input')
+2019-02-28 10:42:25,229 - BasePage -INFO -输入内容：UI自动化测试
+2019-02-28 10:42:25,257 - BasePage -INFO -找到页面元素--('id', 'postsubmit')
+2019-02-28 10:42:25,357 - BasePage -INFO -点击按钮:('id', 'postsubmit')
+2019-02-28 10:42:26,393 - BasePage -INFO -找到页面元素--('id', 'option_1')
+2019-02-28 10:42:26,461 - BasePage -INFO -点击按钮:('id', 'option_1')
+2019-02-28 10:42:26,497 - BasePage -INFO -找到页面元素--('name', 'pollsubmit')
+2019-02-28 10:42:27,145 - BasePage -INFO -点击按钮:('name', 'pollsubmit')
+2019-02-28 10:42:27,149 - BasePage -INFO -激活当前窗口成功
+2019-02-28 10:42:27,181 - BasePage -INFO -找到页面元素--('id', 'thread_subject')
+2019-02-28 10:42:27,209 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="652d602ae37775231c96cff91585b4ad", element="0.13478229596604585-1")>元素text成功。
+2019-02-28 10:42:27,273 - BasePage -INFO -找到页面元素--('css selector', 'td.pvt label')
+2019-02-28 10:42:27,393 - BasePage -INFO -找到页面元素--('css selector', 'div.pcbs form  tr > td:nth-child(2)')
+2019-02-28 10:42:27,421 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="652d602ae37775231c96cff91585b4ad", element="0.13478229596604585-2")>元素text成功。
+2019-02-28 10:42:27,449 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="652d602ae37775231c96cff91585b4ad", element="0.13478229596604585-6")>元素text成功。
+2019-02-28 10:42:27,473 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="652d602ae37775231c96cff91585b4ad", element="0.13478229596604585-3")>元素text成功。
+2019-02-28 10:42:27,493 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="652d602ae37775231c96cff91585b4ad", element="0.13478229596604585-8")>元素text成功。
+2019-02-28 10:42:27,509 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="652d602ae37775231c96cff91585b4ad", element="0.13478229596604585-4")>元素text成功。
+2019-02-28 10:42:27,529 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="652d602ae37775231c96cff91585b4ad", element="0.13478229596604585-10")>元素text成功。
+2019-02-28 10:42:27,529 - BrowserEngine -INFO -Now Close and quit the browser.

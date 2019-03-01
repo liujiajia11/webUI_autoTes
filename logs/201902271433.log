@@ -1,0 +1,31 @@
+2019-02-27 14:33:08,566 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-27 14:33:08,566 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-27 14:33:11,763 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-27 14:33:12,148 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-27 14:33:13,294 - BrowserEngine -INFO -Maximize the current window
+2019-02-27 14:33:13,294 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-27 14:33:13,341 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-27 14:33:13,405 - BasePage -INFO -输入内容：admin
+2019-02-27 14:33:13,436 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-27 14:33:13,486 - BasePage -INFO -输入内容：admin
+2019-02-27 14:33:13,515 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 14:33:13,564 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 14:33:13,569 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:33:16,594 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 14:33:16,875 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 14:33:16,879 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:33:21,280 - BasePage -ERROR -<pageobjects.discuz02.TwoDiscuz object at 0x00000202DE0B9B38>页面中没有找到('name', 'moderate[]')元素
+2019-02-27 14:33:21,280 - BasePage -ERROR -点击按钮失败:('name', 'moderate[]')
+2019-02-27 14:33:21,280 - BasePage -ERROR -<pageobjects.discuz02.TwoDiscuz object at 0x00000202DE0B9B38>页面中没有找到('css selector', '#mdly > p:nth-child(6) > strong:nth-child(1) > a')元素
+2019-02-27 14:33:21,280 - BasePage -ERROR -点击按钮失败:('css selector', '#mdly > p:nth-child(6) > strong:nth-child(1) > a')
+2019-02-27 14:33:21,280 - BasePage -ERROR -<pageobjects.discuz02.TwoDiscuz object at 0x00000202DE0B9B38>页面中没有找到('name', 'modsubmit')元素
+2019-02-27 14:33:21,280 - BasePage -ERROR -点击按钮失败:('name', 'modsubmit')
+2019-02-27 14:33:21,280 - BasePage -ERROR -激活当前窗口失败
+2019-02-27 14:33:21,280 - BasePage -ERROR -<pageobjects.discuz02.TwoDiscuz object at 0x00000202DE0B9B38>页面中没有找到('xpath', '//*[@id="um"]/p[1]/a[6]')元素
+2019-02-27 14:33:21,280 - BasePage -ERROR -点击按钮失败:('xpath', '//*[@id="um"]/p[1]/a[6]')
+2019-02-27 14:33:23,329 - BasePage -INFO -激活第1个窗口失败
+2019-02-27 14:33:23,329 - BasePage -ERROR -激活当前窗口失败
+2019-02-27 14:33:23,329 - BasePage -ERROR -<pageobjects.discuz02.TwoDiscuz object at 0x00000202DE0B9B38>页面中没有找到('id', 'header_forum')元素
+2019-02-27 14:33:23,329 - BasePage -ERROR -点击按钮失败:('id', 'header_forum')
+2019-02-27 14:33:23,329 - BasePage -ERROR -激活当前窗口失败
+2019-02-27 14:33:23,329 - BrowserEngine -INFO -Now Close and quit the browser.

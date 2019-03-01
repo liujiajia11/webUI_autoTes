@@ -1,0 +1,13 @@
+2019-02-26 20:02:17,776 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-26 20:02:17,776 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-26 20:02:21,020 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-26 20:02:21,420 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-26 20:02:22,536 - BrowserEngine -INFO -Maximize the current window
+2019-02-26 20:02:22,537 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-26 20:02:22,568 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-26 20:02:22,634 - BasePage -INFO -输入内容：123456
+2019-02-26 20:02:22,662 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-26 20:02:22,713 - BasePage -INFO -输入内容：123456
+2019-02-26 20:02:22,741 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-26 20:02:22,789 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-26 20:02:22,789 - BrowserEngine -INFO -Now Close and quit the browser.

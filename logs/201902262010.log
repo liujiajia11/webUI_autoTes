@@ -1,0 +1,14 @@
+2019-02-26 20:10:05,301 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-26 20:10:05,302 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-26 20:10:08,511 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-26 20:10:08,944 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-26 20:10:10,057 - BrowserEngine -INFO -Maximize the current window
+2019-02-26 20:10:10,059 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-26 20:10:10,088 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-26 20:10:10,157 - BasePage -INFO -输入内容：123456
+2019-02-26 20:10:10,186 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-26 20:10:10,240 - BasePage -INFO -输入内容：123456
+2019-02-26 20:10:10,273 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-26 20:10:10,326 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-26 20:10:10,331 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x000001E5B0918080>页面中没有找到(('css selector', 'category_1 > table > tbody > tr:nth-child(1) > td:nth-child(2) > h2 > a'),)元素
+2019-02-26 20:10:10,331 - BrowserEngine -INFO -Now Close and quit the browser.

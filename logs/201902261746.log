@@ -1,0 +1,11 @@
+2019-02-26 17:46:23,640 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-26 17:46:23,640 - BrowserEngine -INFO -The text url is https://baidu.com
+2019-02-26 17:46:26,831 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-26 17:46:27,847 - BrowserEngine -INFO -Open url: https://baidu.com
+2019-02-26 17:46:28,963 - BrowserEngine -INFO -Maximize the current window
+2019-02-26 17:46:28,964 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-26 17:46:28,999 - BasePage -INFO -找到页面元素--('name', 'wd')
+2019-02-26 17:46:29,131 - BasePage -INFO -输入内容：软件测试
+2019-02-26 17:46:29,174 - BasePage -INFO -找到页面元素--('id', 'su')
+2019-02-26 17:46:29,323 - BasePage -INFO -点击按钮:('id', 'su')
+2019-02-26 17:46:29,323 - BrowserEngine -INFO -Now Close and quit the browser.

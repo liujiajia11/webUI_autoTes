@@ -1,0 +1,52 @@
+2019-02-27 20:12:19,480 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-27 20:12:19,481 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-27 20:12:22,657 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-27 20:12:23,041 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-27 20:12:24,175 - BrowserEngine -INFO -Maximize the current window
+2019-02-27 20:12:24,176 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-27 20:12:24,205 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-27 20:12:24,271 - BasePage -INFO -输入内容：123456
+2019-02-27 20:12:24,301 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-27 20:12:24,354 - BasePage -INFO -输入内容：123456
+2019-02-27 20:12:24,382 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 20:12:24,432 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 20:12:24,438 - BasePage -INFO -激活当前窗口成功
+2019-02-27 20:12:27,489 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 20:12:27,775 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 20:12:27,806 - BasePage -INFO -找到页面元素--('id', 'newspecial')
+2019-02-27 20:12:27,877 - BasePage -INFO -悬停成功
+2019-02-27 20:12:27,912 - BasePage -INFO -找到页面元素--('css selector', '#newspecial_menu > li.poll > a')
+2019-02-27 20:12:28,231 - BasePage -INFO -点击按钮:('css selector', '#newspecial_menu > li.poll > a')
+2019-02-27 20:12:28,235 - BasePage -INFO -激活当前窗口成功
+2019-02-27 20:12:28,265 - BasePage -INFO -找到页面元素--('name', 'subject')
+2019-02-27 20:12:28,325 - BasePage -INFO -输入内容：学习
+2019-02-27 20:12:28,351 - BasePage -INFO -找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(1) > input')
+2019-02-27 20:12:28,416 - BasePage -INFO -输入内容：python
+2019-02-27 20:12:28,444 - BasePage -INFO -找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(2) > input')
+2019-02-27 20:12:28,505 - BasePage -INFO -输入内容：软件测试
+2019-02-27 20:12:28,537 - BasePage -INFO -找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(3) > input')
+2019-02-27 20:12:28,612 - BasePage -INFO -输入内容：UI自动化测试
+2019-02-27 20:12:28,650 - BasePage -INFO -找到页面元素--('id', 'postsubmit')
+2019-02-27 20:12:28,792 - BasePage -INFO -点击按钮:('id', 'postsubmit')
+2019-02-27 20:12:30,504 - BasePage -INFO -找到页面元素--('id', 'option_1')
+2019-02-27 20:12:30,560 - BasePage -INFO -点击按钮:('id', 'option_1')
+2019-02-27 20:12:30,595 - BasePage -INFO -找到页面元素--('name', 'pollsubmit')
+2019-02-27 20:12:31,288 - BasePage -INFO -点击按钮:('name', 'pollsubmit')
+2019-02-27 20:12:31,292 - BasePage -INFO -激活当前窗口成功
+2019-02-27 20:12:31,321 - BasePage -INFO -找到页面元素--('id', 'thread_subject')
+2019-02-27 20:12:31,348 - BasePage -ERROR -获取('id', 'thread_subject')元素text失败。
+2019-02-27 20:12:31,406 - BasePage -INFO -找到页面元素--('css selector', 'td.pvt label')
+2019-02-27 20:12:31,525 - BasePage -INFO -找到页面元素--('css selector', 'div.pcbs form  tr > td:nth-child(2)')
+2019-02-27 20:12:31,535 - BasePage -ERROR -<pageobjects.discuz04.FourDiscuz object at 0x000002D21F97BE80>页面中没有找到(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-2")>,)元素
+2019-02-27 20:12:31,535 - BasePage -ERROR -获取(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-2")>,)元素text失败。
+2019-02-27 20:12:31,537 - BasePage -ERROR -<pageobjects.discuz04.FourDiscuz object at 0x000002D21F97BE80>页面中没有找到(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-6")>,)元素
+2019-02-27 20:12:31,538 - BasePage -ERROR -获取(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-6")>,)元素text失败。
+2019-02-27 20:12:31,540 - BasePage -ERROR -<pageobjects.discuz04.FourDiscuz object at 0x000002D21F97BE80>页面中没有找到(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-3")>,)元素
+2019-02-27 20:12:31,541 - BasePage -ERROR -获取(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-3")>,)元素text失败。
+2019-02-27 20:12:31,544 - BasePage -ERROR -<pageobjects.discuz04.FourDiscuz object at 0x000002D21F97BE80>页面中没有找到(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-7")>,)元素
+2019-02-27 20:12:31,544 - BasePage -ERROR -获取(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-7")>,)元素text失败。
+2019-02-27 20:12:31,547 - BasePage -ERROR -<pageobjects.discuz04.FourDiscuz object at 0x000002D21F97BE80>页面中没有找到(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-4")>,)元素
+2019-02-27 20:12:31,547 - BasePage -ERROR -获取(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-4")>,)元素text失败。
+2019-02-27 20:12:31,550 - BasePage -ERROR -<pageobjects.discuz04.FourDiscuz object at 0x000002D21F97BE80>页面中没有找到(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-8")>,)元素
+2019-02-27 20:12:31,550 - BasePage -ERROR -获取(<selenium.webdriver.remote.webelement.WebElement (session="df094d07764e5a1e194714e1e08f0cd7", element="0.31325610029444495-8")>,)元素text失败。
+2019-02-27 20:12:31,551 - BrowserEngine -INFO -Now Close and quit the browser.

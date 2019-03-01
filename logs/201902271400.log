@@ -1,0 +1,45 @@
+2019-02-27 14:00:27,064 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-27 14:00:27,064 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-27 14:00:30,390 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-27 14:00:31,012 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-27 14:00:32,165 - BrowserEngine -INFO -Maximize the current window
+2019-02-27 14:00:32,165 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-27 14:00:32,196 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-27 14:00:32,264 - BasePage -INFO -输入内容：admin
+2019-02-27 14:00:32,291 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-27 14:00:32,343 - BasePage -INFO -输入内容：admin
+2019-02-27 14:00:32,375 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 14:00:32,427 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 14:00:32,431 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:00:35,452 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 14:00:35,795 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 14:00:35,798 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:00:38,829 - BasePage -INFO -找到页面元素--('name', 'moderate[]')
+2019-02-27 14:00:38,896 - BasePage -INFO -点击按钮:('name', 'moderate[]')
+2019-02-27 14:00:38,932 - BasePage -INFO -找到页面元素--('css selector', '#mdly > p:nth-child(6) > strong:nth-child(1) > a')
+2019-02-27 14:00:39,118 - BasePage -INFO -点击按钮:('css selector', '#mdly > p:nth-child(6) > strong:nth-child(1) > a')
+2019-02-27 14:00:39,168 - BasePage -INFO -找到页面元素--('name', 'modsubmit')
+2019-02-27 14:00:39,631 - BasePage -INFO -点击按钮:('name', 'modsubmit')
+2019-02-27 14:00:39,638 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:00:39,737 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="um"]/p[1]/a[6]')
+2019-02-27 14:00:39,808 - BasePage -INFO -点击按钮:('xpath', '//*[@id="um"]/p[1]/a[6]')
+2019-02-27 14:00:39,814 - BasePage -INFO -激活第1个窗口成功
+2019-02-27 14:00:39,817 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:01:06,454 - BasePage -INFO -找到页面元素--('id', 'header_forum')
+2019-02-27 14:01:06,656 - BasePage -INFO -点击按钮:('id', 'header_forum')
+2019-02-27 14:01:06,666 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:01:06,680 - BasePage -INFO -发现frame
+2019-02-27 14:01:06,708 - BasePage -INFO -找到页面元素--('css selector', '#cpform > table > tbody:nth-child(3) > tr > td:nth-child(2) > div > a')
+2019-02-27 14:01:06,854 - BasePage -INFO -点击按钮:('css selector', '#cpform > table > tbody:nth-child(3) > tr > td:nth-child(2) > div > a')
+2019-02-27 14:01:06,908 - BasePage -INFO -找到页面元素--('id', 'submit_editsubmit')
+2019-02-27 14:01:07,135 - BasePage -INFO -点击按钮:('id', 'submit_editsubmit')
+2019-02-27 14:01:07,142 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:01:13,779 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x00000173AD4C5630>页面中没有找到('css selector', 'um > p:nth-child(2) > a:nth-child(12)')元素
+2019-02-27 14:01:13,779 - BasePage -ERROR -点击按钮失败:('css selector', 'um > p:nth-child(2) > a:nth-child(12)')
+2019-02-27 14:01:20,825 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x00000173AD4C5630>页面中没有找到('id', 'ls_username')元素
+2019-02-27 14:01:20,825 - BasePage -ERROR -failed输入内容：'NoneType' object has no attribute 'send_keys'
+2019-02-27 14:01:27,916 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x00000173AD4C5630>页面中没有找到('id', 'ls_password')元素
+2019-02-27 14:01:27,916 - BasePage -ERROR -failed输入内容：'NoneType' object has no attribute 'send_keys'
+2019-02-27 14:01:34,990 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x00000173AD4C5630>页面中没有找到('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')元素
+2019-02-27 14:01:34,991 - BasePage -ERROR -点击按钮失败:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 14:01:34,996 - BrowserEngine -INFO -Now Close and quit the browser.

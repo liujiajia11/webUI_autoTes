@@ -1,0 +1,34 @@
+2019-02-27 10:18:39,963 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-27 10:18:39,963 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-27 10:18:43,807 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-27 10:18:44,235 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-27 10:18:45,376 - BrowserEngine -INFO -Maximize the current window
+2019-02-27 10:18:45,378 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-27 10:18:45,444 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-27 10:18:45,518 - BasePage -INFO -输入内容：123456
+2019-02-27 10:18:45,546 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-27 10:18:45,604 - BasePage -INFO -输入内容：123456
+2019-02-27 10:18:45,634 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 10:18:45,683 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 10:18:45,689 - BasePage -INFO -激活当前窗口成功
+2019-02-27 10:18:48,723 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 10:18:49,019 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 10:18:49,085 - BasePage -INFO -找到页面元素--('id', 'newspecial')
+2019-02-27 10:18:49,465 - BasePage -INFO -点击按钮:('id', 'newspecial')
+2019-02-27 10:18:49,552 - BasePage -INFO -找到页面元素--('name', 'subject')
+2019-02-27 10:18:49,647 - BasePage -INFO -输入内容：新帖1
+2019-02-27 10:18:49,665 - BasePage -INFO -发现frame
+2019-02-27 10:18:49,703 - BasePage -INFO -找到页面元素--('css selector', 'body')
+2019-02-27 10:18:49,776 - BasePage -INFO -输入内容：新帖的内容
+2019-02-27 10:18:49,780 - BasePage -INFO -激活当前窗口成功
+2019-02-27 10:18:49,824 - BasePage -INFO -找到页面元素--('id', 'postsubmit')
+2019-02-27 10:18:49,963 - BasePage -INFO -点击按钮:('id', 'postsubmit')
+2019-02-27 10:18:49,969 - BasePage -INFO -激活当前窗口成功
+2019-02-27 10:18:51,250 - BasePage -INFO -找到页面元素--('id', 'fastpostmessage')
+2019-02-27 10:18:51,342 - BasePage -INFO -输入内容：回复新帖1内容....
+2019-02-27 10:18:51,383 - BasePage -INFO -找到页面元素--('id', 'fastpostsubmit')
+2019-02-27 10:18:51,649 - BasePage -INFO -点击按钮:('id', 'fastpostsubmit')
+2019-02-27 10:18:51,654 - BasePage -INFO -激活当前窗口成功
+2019-02-27 10:18:58,746 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x00000285FAED5438>页面中没有找到('css selector', 'um > p:nth-child(2) > a:nth-child(12)')元素
+2019-02-27 10:18:58,746 - BasePage -ERROR -点击按钮失败:('css selector', 'um > p:nth-child(2) > a:nth-child(12)')
+2019-02-27 10:18:58,747 - BrowserEngine -INFO -Now Close and quit the browser.

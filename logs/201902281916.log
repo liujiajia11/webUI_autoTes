@@ -1,0 +1,8 @@
+2019-02-28 19:16:23,745 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-28 19:16:23,745 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-28 19:16:27,188 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-28 19:16:27,604 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-28 19:16:28,722 - BrowserEngine -INFO -Maximize the current window
+2019-02-28 19:16:28,723 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-28 19:16:28,756 - BasePage -INFO -ÕÒµ½Ò³ÃæÔªËØ--('id', 'ls_username')
+2019-02-28 19:16:28,757 - BrowserEngine -INFO -Now Close and quit the browser.

@@ -1,0 +1,46 @@
+2019-03-01 11:11:17,659 - BrowserEngine -INFO -You had select Chrome browser.
+2019-03-01 11:11:17,659 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-03-01 11:11:20,940 - BrowserEngine -INFO -Starting Chrome browser.
+2019-03-01 11:11:21,313 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-03-01 11:11:22,427 - BrowserEngine -INFO -Maximize the current window
+2019-03-01 11:11:22,429 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-03-01 11:11:22,459 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-03-01 11:11:22,527 - BasePage -INFO -输入内容：123456
+2019-03-01 11:11:22,558 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-03-01 11:11:22,609 - BasePage -INFO -输入内容：123456
+2019-03-01 11:11:22,641 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-03-01 11:11:22,692 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-03-01 11:11:22,698 - BasePage -INFO -激活当前窗口成功
+2019-03-01 11:11:23,153 - BasePage -INFO -找到页面元素--('css selector', '#um > p:nth-child(2) > strong > a')
+2019-03-01 11:11:23,186 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="75b2ccdd6a898fe2f8d160a09c9ad7da", element="0.9372497490126226-1")>元素text成功。
+2019-03-01 11:11:26,233 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-03-01 11:11:26,255 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="75b2ccdd6a898fe2f8d160a09c9ad7da", element="0.9372497490126226-2")>元素text成功。
+2019-03-01 11:11:26,270 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-03-01 11:11:26,610 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-03-01 11:11:26,621 - BasePage -INFO -激活当前窗口成功
+2019-03-01 11:11:26,656 - BasePage -INFO -找到页面元素--('css selector', '#ct > div > div.bm.bml.pbn > div > h1 > a')
+2019-03-01 11:11:26,679 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="75b2ccdd6a898fe2f8d160a09c9ad7da", element="0.03336629652782408-1")>元素text成功。
+2019-03-01 11:11:26,706 - BasePage -INFO -找到页面元素--('id', 'newspecial')
+2019-03-01 11:11:26,735 - BasePage -INFO -悬停成功
+2019-03-01 11:11:26,773 - BasePage -INFO -找到页面元素--('css selector', '#newspecial_menu > li:nth-child(1) > a')
+2019-03-01 11:11:27,090 - BasePage -INFO -点击按钮:('css selector', '#newspecial_menu > li:nth-child(1) > a')
+2019-03-01 11:11:27,121 - BasePage -INFO -找到页面元素--('name', 'subject')
+2019-03-01 11:11:27,183 - BasePage -INFO -输入内容：新帖1
+2019-03-01 11:11:27,194 - BasePage -INFO -发现frame
+2019-03-01 11:11:27,217 - BasePage -INFO -找到页面元素--('css selector', 'body')
+2019-03-01 11:11:27,272 - BasePage -INFO -输入内容：新帖的内容
+2019-03-01 11:11:27,276 - BasePage -INFO -激活当前窗口成功
+2019-03-01 11:11:27,303 - BasePage -INFO -找到页面元素--('id', 'postsubmit')
+2019-03-01 11:11:27,401 - BasePage -INFO -点击按钮:('id', 'postsubmit')
+2019-03-01 11:11:27,406 - BasePage -INFO -激活当前窗口成功
+2019-03-01 11:11:28,739 - BasePage -INFO -找到页面元素--('id', 'thread_subject')
+2019-03-01 11:11:28,763 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="75b2ccdd6a898fe2f8d160a09c9ad7da", element="0.31038928279278943-1")>元素text成功。
+2019-03-01 11:11:44,766 - BasePage -INFO -激活当前窗口成功
+2019-03-01 11:11:44,796 - BasePage -INFO -找到页面元素--('id', 'fastpostmessage')
+2019-03-01 11:11:44,884 - BasePage -INFO -输入内容：回复新帖1内容....
+2019-03-01 11:11:44,937 - BasePage -INFO -找到页面元素--('id', 'fastpostsubmit')
+2019-03-01 11:11:45,229 - BasePage -INFO -点击按钮:('id', 'fastpostsubmit')
+2019-03-01 11:11:45,232 - BasePage -INFO -激活当前窗口成功
+2019-03-01 11:11:52,331 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x000001ED34D2BE80>页面中没有找到('css selector', '#postmessage_92')元素
+2019-03-01 11:11:52,629 - BasePage -INFO -获得截图并保存到：/screenshorts中
+2019-03-01 11:11:52,629 - BrowserEngine -INFO -Now Close and quit the browser.

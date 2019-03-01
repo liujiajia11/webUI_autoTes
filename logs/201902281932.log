@@ -1,0 +1,16 @@
+2019-02-28 19:32:37,508 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-28 19:32:37,508 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-28 19:32:40,877 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-28 19:32:42,292 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-28 19:32:43,407 - BrowserEngine -INFO -Maximize the current window
+2019-02-28 19:32:43,409 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-28 19:32:43,442 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-28 19:32:43,512 - BasePage -INFO -输入内容：123456
+2019-02-28 19:32:43,546 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-28 19:32:43,602 - BasePage -INFO -输入内容：123456
+2019-02-28 19:32:43,635 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 19:32:43,687 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 19:32:43,692 - BasePage -INFO -激活当前窗口成功
+2019-02-28 19:32:44,109 - BasePage -INFO -找到页面元素--('css selector', '#um > p:nth-child(2) > strong > a')
+2019-02-28 19:32:44,141 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="e282fb67e54f38bfdb7ee064a80c3ad4", element="0.6059623577782669-1")>元素text成功。
+2019-02-28 19:32:44,142 - BrowserEngine -INFO -Now Close and quit the browser.

@@ -1,0 +1,31 @@
+2019-03-01 11:02:12,599 - BrowserEngine -INFO -You had select Chrome browser.
+2019-03-01 11:02:12,600 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-03-01 11:02:15,827 - BrowserEngine -INFO -Starting Chrome browser.
+2019-03-01 11:02:16,244 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-03-01 11:02:17,356 - BrowserEngine -INFO -Maximize the current window
+2019-03-01 11:02:17,357 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-03-01 11:02:17,389 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-03-01 11:02:17,454 - BasePage -INFO -输入内容：123456
+2019-03-01 11:02:17,485 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-03-01 11:02:17,540 - BasePage -INFO -输入内容：123456
+2019-03-01 11:02:17,577 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-03-01 11:02:17,630 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-03-01 11:02:17,636 - BasePage -INFO -激活当前窗口成功
+2019-03-01 11:02:18,079 - BasePage -INFO -找到页面元素--('css selector', '#um > p:nth-child(2) > strong > a')
+2019-03-01 11:02:18,109 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="ef86c64dd6d8e18dbf3bae2f9bf8fcf4", element="0.2877759081934883-1")>元素text成功。
+2019-03-01 11:02:21,139 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-03-01 11:02:21,166 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="ef86c64dd6d8e18dbf3bae2f9bf8fcf4", element="0.2877759081934883-2")>元素text成功。
+2019-03-01 11:02:21,180 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-03-01 11:02:21,451 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-03-01 11:02:21,456 - BasePage -INFO -激活当前窗口成功
+2019-03-01 11:02:21,533 - BasePage -INFO -找到页面元素--('css selector', '#ct > div > div.bm.bml.pbn > div > h1 > a')
+2019-03-01 11:02:21,559 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="ef86c64dd6d8e18dbf3bae2f9bf8fcf4", element="0.8056513702288461-1")>元素text成功。
+2019-03-01 11:02:21,587 - BasePage -INFO -找到页面元素--('id', 'newspecial')
+2019-03-01 11:02:21,618 - BasePage -INFO -悬停成功
+2019-03-01 11:02:26,858 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x00000240AB369550>页面中没有找到('css selector', '#newspecial_menu > li:nth-child(1) > a')元素
+2019-03-01 11:02:27,165 - BasePage -INFO -获得截图并保存到：/screenshorts中
+2019-03-01 11:02:27,165 - BasePage -ERROR -点击按钮失败:('css selector', '#newspecial_menu > li:nth-child(1) > a')
+2019-03-01 11:02:27,453 - BasePage -INFO -获得截图并保存到：/screenshorts中
+2019-03-01 11:02:27,480 - BasePage -INFO -找到页面元素--('name', 'subject')
+2019-03-01 11:02:27,531 - BasePage -INFO -输入内容：新帖1
+2019-03-01 11:02:27,539 - BrowserEngine -INFO -Now Close and quit the browser.

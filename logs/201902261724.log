@@ -1,0 +1,8 @@
+2019-02-26 17:24:23,704 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-26 17:24:23,704 - BrowserEngine -INFO -The text url is https://baidu.com
+2019-02-26 17:24:26,903 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-26 17:24:27,960 - BrowserEngine -INFO -Open url: https://baidu.com
+2019-02-26 17:24:29,090 - BrowserEngine -INFO -Maximize the current window
+2019-02-26 17:24:29,091 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-26 17:24:29,218 - BasePage -INFO - ‰»Îƒ⁄»›£∫»Ìº˛≤‚ ‘
+2019-02-26 17:24:29,219 - BrowserEngine -INFO -Now Close and quit the browser.

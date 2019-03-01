@@ -1,0 +1,23 @@
+2019-02-27 14:55:38,846 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-27 14:55:38,846 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-27 14:55:42,076 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-27 14:55:42,504 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-27 14:55:43,655 - BrowserEngine -INFO -Maximize the current window
+2019-02-27 14:55:43,655 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-27 14:55:43,671 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-27 14:55:43,747 - BasePage -INFO -输入内容：admin
+2019-02-27 14:55:43,778 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-27 14:55:43,828 - BasePage -INFO -输入内容：admin
+2019-02-27 14:55:43,858 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 14:55:43,907 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 14:55:43,912 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:55:46,938 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 14:55:47,225 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-27 14:55:47,230 - BasePage -INFO -激活当前窗口成功
+2019-02-27 14:55:50,258 - BasePage -INFO -找到页面元素--('name', 'moderate[]')
+2019-02-27 14:55:50,318 - BasePage -INFO -点击按钮:('name', 'moderate[]')
+2019-02-27 14:55:50,359 - BasePage -INFO -找到页面元素--('css selector', '#mdly > p:nth-child(6) > strong:nth-child(1) > a')
+2019-02-27 14:55:50,530 - BasePage -INFO -点击按钮:('css selector', '#mdly > p:nth-child(6) > strong:nth-child(1) > a')
+2019-02-27 14:55:50,571 - BasePage -INFO -找到页面元素--('name', 'modsubmit')
+2019-02-27 14:55:50,952 - BasePage -INFO -点击按钮:('name', 'modsubmit')
+2019-02-27 14:55:50,953 - BrowserEngine -INFO -Now Close and quit the browser.

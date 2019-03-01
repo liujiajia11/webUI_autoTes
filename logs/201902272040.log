@@ -1,0 +1,48 @@
+2019-02-27 20:40:47,061 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-27 20:40:47,061 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-27 20:40:47,061 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-27 20:40:47,061 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-27 20:40:50,355 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-27 20:40:50,355 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-27 20:40:50,737 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-27 20:40:50,737 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-27 20:40:51,867 - BrowserEngine -INFO -Maximize the current window
+2019-02-27 20:40:51,867 - BrowserEngine -INFO -Maximize the current window
+2019-02-27 20:40:51,869 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-27 20:40:51,869 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-27 20:40:51,898 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-27 20:40:51,898 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-27 20:40:51,970 - BasePage -INFO -输入内容：123456
+2019-02-27 20:40:51,970 - BasePage -INFO -输入内容：123456
+2019-02-27 20:40:51,998 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-27 20:40:51,998 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-27 20:40:52,050 - BasePage -INFO -输入内容：123456
+2019-02-27 20:40:52,050 - BasePage -INFO -输入内容：123456
+2019-02-27 20:40:52,079 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 20:40:52,079 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 20:40:52,129 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 20:40:52,129 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-27 20:40:52,159 - BasePage -INFO -找到页面元素--('css selector', '#scbar_txt')
+2019-02-27 20:40:52,159 - BasePage -INFO -找到页面元素--('css selector', '#scbar_txt')
+2019-02-27 20:40:52,556 - BasePage -INFO -输入内容：haotest
+2019-02-27 20:40:52,556 - BasePage -INFO -输入内容：haotest
+2019-02-27 20:40:52,583 - BasePage -INFO -找到页面元素--('id', 'scbar_btn')
+2019-02-27 20:40:52,583 - BasePage -INFO -找到页面元素--('id', 'scbar_btn')
+2019-02-27 20:40:52,656 - BasePage -INFO -点击按钮:('id', 'scbar_btn')
+2019-02-27 20:40:52,656 - BasePage -INFO -点击按钮:('id', 'scbar_btn')
+2019-02-27 20:40:52,663 - BasePage -INFO -激活第1个窗口成功
+2019-02-27 20:40:52,663 - BasePage -INFO -激活第1个窗口成功
+2019-02-27 20:40:52,668 - BasePage -INFO -激活当前窗口成功
+2019-02-27 20:40:52,668 - BasePage -INFO -激活当前窗口成功
+2019-02-27 20:41:00,743 - BasePage -ERROR -<pageobjects.discuz03.ThreeDiscuz object at 0x0000026418D26160>页面中没有找到('css selector', 'h3 a')元素
+2019-02-27 20:41:00,743 - BasePage -ERROR -<pageobjects.discuz03.ThreeDiscuz object at 0x0000026418D26160>页面中没有找到('css selector', 'h3 a')元素
+2019-02-27 20:41:00,743 - BasePage -ERROR -点击按钮失败:('css selector', 'h3 a')
+2019-02-27 20:41:00,743 - BasePage -ERROR -点击按钮失败:('css selector', 'h3 a')
+2019-02-27 20:41:00,745 - BasePage -INFO -激活第2个窗口失败
+2019-02-27 20:41:00,745 - BasePage -INFO -激活第2个窗口失败
+2019-02-27 20:41:00,749 - BasePage -INFO -激活当前窗口成功
+2019-02-27 20:41:00,749 - BasePage -INFO -激活当前窗口成功
+2019-02-27 20:41:07,790 - BasePage -ERROR -<pageobjects.discuz03.ThreeDiscuz object at 0x0000026418D26160>页面中没有找到('id', 'thread_subject')元素
+2019-02-27 20:41:07,790 - BasePage -ERROR -<pageobjects.discuz03.ThreeDiscuz object at 0x0000026418D26160>页面中没有找到('id', 'thread_subject')元素
+2019-02-27 20:41:07,796 - BrowserEngine -INFO -Now Close and quit the browser.
+2019-02-27 20:41:07,796 - BrowserEngine -INFO -Now Close and quit the browser.

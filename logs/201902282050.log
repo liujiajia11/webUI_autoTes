@@ -1,0 +1,20 @@
+2019-02-28 20:50:30,890 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-28 20:50:30,890 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-28 20:50:34,309 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-28 20:50:34,696 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-28 20:50:35,812 - BrowserEngine -INFO -Maximize the current window
+2019-02-28 20:50:35,813 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-28 20:50:35,847 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-28 20:50:35,932 - BasePage -INFO -输入内容：123456
+2019-02-28 20:50:35,964 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-28 20:50:36,017 - BasePage -INFO -输入内容：123456
+2019-02-28 20:50:36,050 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 20:50:36,098 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 20:50:36,103 - BasePage -INFO -激活当前窗口成功
+2019-02-28 20:50:36,527 - BasePage -INFO -找到页面元素--('css selector', '#um > p:nth-child(2) > strong > a')
+2019-02-28 20:50:36,557 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="a50f561abfed0b4f72ab8bd3517a4693", element="0.16189648564800785-1")>元素text成功。
+2019-02-28 20:50:39,605 - BasePage -INFO -找到页面元素--('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 20:50:39,886 - BasePage -INFO -点击按钮:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 20:50:46,970 - BasePage -ERROR -<pageobjects.discuz01.OneDiscuz object at 0x000001EFBF307400>页面中没有找到('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')元素
+2019-02-28 20:50:47,351 - BasePage -INFO -获得截图并保存到：/screenshorts中
+2019-02-28 20:50:47,351 - BrowserEngine -INFO -Now Close and quit the browser.

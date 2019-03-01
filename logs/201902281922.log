@@ -1,0 +1,30 @@
+2019-02-28 19:22:08,826 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-28 19:22:08,826 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-28 19:22:12,150 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-28 19:22:12,592 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-28 19:22:13,708 - BrowserEngine -INFO -Maximize the current window
+2019-02-28 19:22:13,709 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-28 19:22:13,739 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-28 19:22:13,812 - BasePage -INFO -输入内容：123456
+2019-02-28 19:22:13,842 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-28 19:22:13,898 - BasePage -INFO -输入内容：123456
+2019-02-28 19:22:13,931 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 19:22:13,983 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 19:22:14,404 - BasePage -INFO -找到页面元素--('css selector', '#um > p:nth-child(2) > strong > a')
+2019-02-28 19:22:14,441 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="955cc29f600e575d2432506593be22ea", element="0.34811619653128156-1")>元素text成功。
+2019-02-28 19:22:14,441 - BrowserEngine -INFO -Now Close and quit the browser.
+2019-02-28 19:22:55,543 - BrowserEngine -INFO -You had select Chrome browser.
+2019-02-28 19:22:55,543 - BrowserEngine -INFO -The text url is http://127.0.0.1/forum.php.
+2019-02-28 19:22:58,826 - BrowserEngine -INFO -Starting Chrome browser.
+2019-02-28 19:22:59,293 - BrowserEngine -INFO -Open url: http://127.0.0.1/forum.php.
+2019-02-28 19:23:00,408 - BrowserEngine -INFO -Maximize the current window
+2019-02-28 19:23:00,410 - BrowserEngine -INFO -Set implicitly wait 10 seconds.
+2019-02-28 19:23:00,438 - BasePage -INFO -找到页面元素--('id', 'ls_username')
+2019-02-28 19:23:00,511 - BasePage -INFO -输入内容：123456
+2019-02-28 19:23:00,537 - BasePage -INFO -找到页面元素--('id', 'ls_password')
+2019-02-28 19:23:00,594 - BasePage -INFO -输入内容：123456
+2019-02-28 19:23:00,628 - BasePage -INFO -找到页面元素--('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 19:23:00,681 - BasePage -INFO -点击按钮:('css selector', 'tbody tr:nth-child(2) td:nth-child(3) button')
+2019-02-28 19:23:01,096 - BasePage -INFO -找到页面元素--('css selector', '#um > p:nth-child(2) > strong > a')
+2019-02-28 19:23:01,147 - BasePage -INFO -获取<selenium.webdriver.remote.webelement.WebElement (session="c23575c0205eb4819c0d772db51cbbad", element="0.23245368334333238-1")>元素text成功。
+2019-02-28 19:23:01,147 - BrowserEngine -INFO -Now Close and quit the browser.
