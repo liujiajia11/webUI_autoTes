@@ -1,0 +1,21 @@
+2019-02-28 15:01:12,249-BrowerseEngine-INFO-打开Chrome浏览器
+2019-02-28 15:01:12,249-BrowerseEngine-INFO-打开的url为：http://127.0.0.1/forum.php
+2019-02-28 15:01:14,503-BrowerseEngine-INFO-Starting Chrome browers
+2019-02-28 15:01:15,133-BrowerseEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 15:01:16,270-BrowerseEngine-INFO-Maximize the current window
+2019-02-28 15:01:16,271-BrowerseEngine-INFO-Set implicitly wait 10 seconds
+2019-02-28 15:01:16,303-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-02-28 15:01:16,404-BasePage-INFO-输入内容:admin
+2019-02-28 15:01:16,433-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-02-28 15:01:16,516-BasePage-INFO-输入内容:111111
+2019-02-28 15:01:16,545-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-02-28 15:01:16,595-BasePage-INFO-The element was click 
+2019-02-28 15:01:21,627-BasePage-INFO-找到页面元素('xpath', "//input[@name='srchtxt']")
+2019-02-28 15:01:21,724-BasePage-INFO-输入内容:haotest
+2019-02-28 15:01:21,756-BasePage-INFO-找到页面元素('css selector', '.scbar_btn_td .pn')
+2019-02-28 15:01:21,832-BasePage-INFO-The element was click 
+2019-02-28 15:01:21,844-BasePage-INFO-Activate second window
+2019-02-28 15:01:26,870-BasePage-INFO-Closing and quit this browers.
+2019-02-28 15:01:31,883-BasePage-INFO-Activate second window
+2019-02-28 15:01:36,939-BasePage-INFO-找到页面元素('link text', '退出')
+2019-02-28 15:01:37,230-BasePage-INFO-The element was click 

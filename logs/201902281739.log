@@ -1,0 +1,63 @@
+2019-02-28 17:39:00,382-BrowerseEngine-INFO-打开Chrome浏览器
+2019-02-28 17:39:00,382-BrowerseEngine-INFO-打开的url为：http://127.0.0.1/forum.php
+2019-02-28 17:39:02,632-BrowerseEngine-INFO-Starting Chrome browers
+2019-02-28 17:39:03,339-BrowerseEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 17:39:04,453-BrowerseEngine-INFO-Maximize the current window
+2019-02-28 17:39:04,455-BrowerseEngine-INFO-Set implicitly wait 10 seconds
+2019-02-28 17:39:04,494-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-02-28 17:39:04,608-BasePage-INFO-输入内容:admin
+2019-02-28 17:39:04,641-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-02-28 17:39:04,735-BasePage-INFO-输入内容:111111
+2019-02-28 17:39:04,769-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-02-28 17:39:04,825-BasePage-INFO-The element was click 
+2019-02-28 17:39:05,864-BasePage-INFO-找到页面元素('xpath', '//tr[1]/td/h2/a')
+2019-02-28 17:39:06,202-BasePage-INFO-The element was click 
+2019-02-28 17:39:07,234-BasePage-INFO-找到页面元素('name', 'moderate[]')
+2019-02-28 17:39:07,293-BasePage-INFO-The element was click 
+2019-02-28 17:39:07,396-BasePage-INFO-找到页面元素('link text', '删除')
+2019-02-28 17:39:07,629-BasePage-INFO-The element was click 
+2019-02-28 17:39:07,674-BasePage-INFO-找到页面元素('id', 'modsubmit')
+2019-02-28 17:39:08,035-BasePage-INFO-The element was click 
+2019-02-28 17:39:13,111-BasePage-INFO-找到页面元素('link text', '管理中心')
+2019-02-28 17:39:13,210-BasePage-INFO-The element was click 
+2019-02-28 17:39:13,222-BasePage-INFO-Activate second window
+2019-02-28 17:39:14,296-BasePage-INFO-找到页面元素('css selector', '#loginform p:nth-child(6) input')
+2019-02-28 17:39:14,369-BasePage-INFO-输入内容:111111
+2019-02-28 17:39:14,397-BasePage-INFO-找到页面元素('name', 'submit')
+2019-02-28 17:39:34,506-BasePage-INFO-The element was click 
+2019-02-28 17:39:44,544-BasePage-INFO-找到页面元素('id', 'header_forum')
+2019-02-28 17:39:44,736-BasePage-INFO-The element was click 
+2019-02-28 17:39:47,796-BasePage-INFO-Succerfully switch to frame
+2019-02-28 17:39:47,825-BasePage-INFO-找到页面元素('css selector', '.lastboard .addtr')
+2019-02-28 17:39:47,932-BasePage-INFO-The element was click 
+2019-02-28 17:39:47,965-BasePage-INFO-找到页面元素('name', 'newforum[1][]')
+2019-02-28 17:39:48,040-BasePage-INFO-输入内容:star
+2019-02-28 17:39:48,070-BasePage-INFO-找到页面元素('id', 'submit_editsubmit')
+2019-02-28 17:39:48,276-BasePage-INFO-The element was click 
+2019-02-28 17:39:48,280-BasePage-INFO-Succerfully switch to frame
+2019-02-28 17:39:51,431-BasePage-INFO-找到页面元素('link text', '退出')
+2019-02-28 17:39:51,903-BasePage-INFO-The element was click 
+2019-02-28 17:39:51,924-BasePage-INFO-Closing and quit this browers.
+2019-02-28 17:39:51,941-BasePage-INFO-Activate first window
+2019-02-28 17:39:51,997-BasePage-INFO-找到页面元素('link text', '退出')
+2019-02-28 17:39:52,188-BasePage-INFO-The element was click 
+2019-02-28 17:39:54,384-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-02-28 17:39:54,479-BasePage-INFO-输入内容:liujiajia
+2019-02-28 17:39:54,508-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-02-28 17:39:54,574-BasePage-INFO-输入内容:666666
+2019-02-28 17:39:54,600-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-02-28 17:39:54,649-BasePage-INFO-The element was click 
+2019-02-28 17:40:05,683-BasePage-ERROR-<pageobjects.disciz02.SecondDisciz object at 0x000002094AE0F710> 页面中找不到 ('xpath', '//tr[2]/td/h2/a')元素
+2019-02-28 17:40:05,683-BasePage-ERROR-Failed to clickelement with 'NoneType' object has no attribute 'click'
+2019-02-28 17:40:05,713-BasePage-INFO-找到页面元素('id', 'subject')
+2019-02-28 17:40:05,827-BasePage-INFO-输入内容:Let's go
+2019-02-28 17:40:05,859-BasePage-INFO-找到页面元素('id', 'fastpostmessage')
+2019-02-28 17:40:05,971-BasePage-INFO-输入内容:I went to Beijing
+2019-02-28 17:40:08,000-BasePage-INFO-找到页面元素('xpath', '//p/button/strong')
+2019-02-28 17:41:08,107-BasePage-INFO-The element was click 
+2019-02-28 17:41:13,145-BasePage-INFO-找到页面元素('id', 'post_reply')
+2019-02-28 17:41:18,195-BasePage-INFO-The element was click 
+2019-02-28 17:41:18,352-BasePage-INFO-找到页面元素('id', 'postmessage')
+2019-02-28 17:41:18,427-BasePage-INFO-输入内容:welcome
+2019-02-28 17:41:18,480-BasePage-INFO-找到页面元素('xpath', '//p/button/strong')
+2019-02-28 17:41:23,556-BasePage-INFO-The element was click 

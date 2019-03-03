@@ -1,0 +1,23 @@
+2019-02-28 19:26:11,110-BrowerseEngine-INFO-打开Chrome浏览器
+2019-02-28 19:26:11,110-BrowerseEngine-INFO-打开的url为：http://127.0.0.1/forum.php
+2019-02-28 19:26:13,291-BrowerseEngine-INFO-Starting Chrome browers
+2019-02-28 19:26:13,960-BrowerseEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 19:26:15,074-BrowerseEngine-INFO-Maximize the current window
+2019-02-28 19:26:15,074-BrowerseEngine-INFO-Set implicitly wait 10 seconds
+2019-02-28 19:26:15,114-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-02-28 19:26:15,237-BasePage-INFO-输入内容:admin
+2019-02-28 19:26:15,270-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-02-28 19:26:15,361-BasePage-INFO-输入内容:111111
+2019-02-28 19:26:15,391-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-02-28 19:26:15,486-BasePage-INFO-The element was click 
+2019-02-28 19:26:20,537-BasePage-INFO-找到页面元素('xpath', "//input[@name='srchtxt']")
+2019-02-28 19:26:20,639-BasePage-INFO-输入内容:haotest
+2019-02-28 19:26:20,671-BasePage-INFO-找到页面元素('css selector', '.scbar_btn_td .pn')
+2019-02-28 19:26:20,744-BasePage-INFO-The element was click 
+2019-02-28 19:26:20,755-BasePage-INFO-Activate second window
+2019-02-28 19:26:26,818-BasePage-INFO-找到页面元素('xpath', '//a/strong/font')
+2019-02-28 19:26:26,845-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="35546acc10c63b4fd0d53a31704e7bf3", element="0.9237870112126128-1")>
+2019-02-28 19:26:26,872-BasePage-INFO-Closing and quit this browers.
+2019-02-28 19:26:26,878-BasePage-INFO-Activate first window
+2019-02-28 19:26:31,924-BasePage-INFO-找到页面元素('link text', '退出')
+2019-02-28 19:26:32,124-BasePage-INFO-The element was click 

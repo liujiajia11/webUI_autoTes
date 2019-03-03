@@ -1,14 +1,18 @@
 import unittest
-from framework.logger import Logger
-from framework.browser_engine import BrowserEngine
-
-logger=Logger(logger="BaseTestCase").getlog()
+from framework.brower_engine import BrowerseEngine
 
 class BaseTestCase(unittest.TestCase):
-    be=BrowserEngine()
-    def setUp(self):
-        self.be.open_browser()
-        self.driver=self.be.driver
 
+    def setUp(self):
+        browser=BrowerseEngine()
+        self.driver = browser.open_browers()
+        print("baseTestcase driver",self.driver)
+        # self.driver=self.be.driver
+        # self.driver=webdriver.Chrome("../tools/chromedriver.exe")
+        # self.driver.maximize_window()
+        # self.driver.implicitly_wait(5)
+        # self.driver.get("http://www.baidu.com")
     def tearDown(self):
-        self.be.quit_browser()
+        self.driver.quit()
+        # self.be.quit_browers()
+         # self.be.quit_browers()

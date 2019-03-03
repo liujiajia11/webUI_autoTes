@@ -1,0 +1,67 @@
+2019-02-28 17:48:09,568-BrowerseEngine-INFO-打开Chrome浏览器
+2019-02-28 17:48:09,569-BrowerseEngine-INFO-打开的url为：http://127.0.0.1/forum.php
+2019-02-28 17:48:11,792-BrowerseEngine-INFO-Starting Chrome browers
+2019-02-28 17:48:12,691-BrowerseEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 17:48:13,829-BrowerseEngine-INFO-Maximize the current window
+2019-02-28 17:48:13,830-BrowerseEngine-INFO-Set implicitly wait 10 seconds
+2019-02-28 17:48:13,864-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-02-28 17:48:13,974-BasePage-INFO-输入内容:admin
+2019-02-28 17:48:14,004-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-02-28 17:48:14,083-BasePage-INFO-输入内容:111111
+2019-02-28 17:48:14,112-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-02-28 17:48:14,163-BasePage-INFO-The element was click 
+2019-02-28 17:48:19,212-BasePage-INFO-找到页面元素('xpath', '//tr[1]/td/h2/a')
+2019-02-28 17:48:19,626-BasePage-INFO-The element was click 
+2019-02-28 17:48:24,669-BasePage-INFO-找到页面元素('css selector', '#newspecial img')
+2019-02-28 17:48:25,126-BasePage-INFO-The element was click 
+2019-02-28 17:48:30,171-BasePage-INFO-找到页面元素('css selector', '.bm .tb .a')
+2019-02-28 17:48:30,600-BasePage-INFO-The element was click 
+2019-02-28 17:48:35,638-BasePage-INFO-找到页面元素('css selector', '.pbt .z .px')
+2019-02-28 17:48:35,776-BasePage-INFO-输入内容:你最喜欢吃的水果
+2019-02-28 17:48:46,839-BasePage-ERROR-<pageobjects.disciz04.ForthDisciz object at 0x000001A647BBAE48> 页面中找不到 ('css selector', '.mbm p:nth-child(3)  input')元素
+2019-02-28 17:48:53,662-BrowerseEngine-INFO-打开Chrome浏览器
+2019-02-28 17:48:53,662-BrowerseEngine-INFO-打开的url为：http://127.0.0.1/forum.php
+2019-02-28 17:48:55,889-BrowerseEngine-INFO-Starting Chrome browers
+2019-02-28 17:48:56,596-BrowerseEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 17:48:57,715-BrowerseEngine-INFO-Maximize the current window
+2019-02-28 17:48:57,717-BrowerseEngine-INFO-Set implicitly wait 10 seconds
+2019-02-28 17:48:57,752-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-02-28 17:48:57,856-BasePage-INFO-输入内容:admin
+2019-02-28 17:48:57,887-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-02-28 17:48:57,968-BasePage-INFO-输入内容:111111
+2019-02-28 17:48:58,002-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-02-28 17:48:58,053-BasePage-INFO-The element was click 
+2019-02-28 17:49:03,094-BasePage-INFO-找到页面元素('xpath', '//tr[1]/td/h2/a')
+2019-02-28 17:49:03,538-BasePage-INFO-The element was click 
+2019-02-28 17:49:08,571-BasePage-INFO-找到页面元素('css selector', '#newspecial img')
+2019-02-28 17:49:09,044-BasePage-INFO-The element was click 
+2019-02-28 17:49:14,093-BasePage-INFO-找到页面元素('css selector', '.bm .tb .a')
+2019-02-28 17:49:14,526-BasePage-INFO-The element was click 
+2019-02-28 17:49:19,566-BasePage-INFO-找到页面元素('css selector', '.pbt .z .px')
+2019-02-28 17:49:19,720-BasePage-INFO-输入内容:你最喜欢吃的水果
+2019-02-28 17:49:19,748-BasePage-INFO-找到页面元素('css selector', '.mbm p:nth-child(3)  input')
+2019-02-28 17:49:19,834-BasePage-INFO-输入内容:草莓
+2019-02-28 17:49:19,863-BasePage-INFO-找到页面元素('css selector', '.mbm p:nth-child(2)  input')
+2019-02-28 17:49:19,943-BasePage-INFO-输入内容:哈密瓜
+2019-02-28 17:49:19,971-BasePage-INFO-找到页面元素('css selector', '.mbm p:nth-child(1)  input')
+2019-02-28 17:49:20,038-BasePage-INFO-输入内容:香蕉
+2019-02-28 17:49:20,069-BasePage-INFO-找到页面元素('xpath', '//div/button/span')
+2019-02-28 17:49:20,168-BasePage-INFO-The element was click 
+2019-02-28 17:49:43,855-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(1) td:nth-child(1) input')
+2019-02-28 17:49:43,962-BasePage-INFO-The element was click 
+2019-02-28 17:49:44,016-BasePage-INFO-找到页面元素('xpath', '//button/span')
+2019-02-28 17:49:44,672-BasePage-INFO-The element was click 
+2019-02-28 17:49:49,718-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(1) td:nth-child(1) label')
+2019-02-28 17:49:49,753-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(3) td:nth-child(1) label')
+2019-02-28 17:49:49,788-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(5) td:nth-child(1) label')
+2019-02-28 17:49:49,824-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(2) td:nth-child(2) ')
+2019-02-28 17:49:49,861-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(4) td:nth-child(2) ')
+2019-02-28 17:49:49,898-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(6) td:nth-child(2) ')
+2019-02-28 17:49:49,935-BasePage-INFO-找到页面元素('xpath', '//h1/span')
+2019-02-28 17:49:49,962-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="f275da92dbe5477d8599e99dbc8a3e54", element="0.38779413218271697-1")>
+2019-02-28 17:49:49,979-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="f275da92dbe5477d8599e99dbc8a3e54", element="0.38779413218271697-2")>
+2019-02-28 17:49:49,996-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="f275da92dbe5477d8599e99dbc8a3e54", element="0.38779413218271697-3")>
+2019-02-28 17:49:50,017-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="f275da92dbe5477d8599e99dbc8a3e54", element="0.38779413218271697-4")>
+2019-02-28 17:49:50,037-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="f275da92dbe5477d8599e99dbc8a3e54", element="0.38779413218271697-5")>
+2019-02-28 17:49:50,056-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="f275da92dbe5477d8599e99dbc8a3e54", element="0.38779413218271697-6")>
+2019-02-28 17:49:50,074-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="f275da92dbe5477d8599e99dbc8a3e54", element="0.38779413218271697-7")>

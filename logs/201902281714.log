@@ -1,0 +1,28 @@
+2019-02-28 17:14:04,079-BrowerseEngine-INFO-打开Chrome浏览器
+2019-02-28 17:14:04,079-BrowerseEngine-INFO-打开的url为：http://127.0.0.1/forum.php
+2019-02-28 17:14:06,752-BrowerseEngine-INFO-Starting Chrome browers
+2019-02-28 17:14:07,300-BrowerseEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 17:14:08,418-BrowerseEngine-INFO-Maximize the current window
+2019-02-28 17:14:08,421-BrowerseEngine-INFO-Set implicitly wait 10 seconds
+2019-02-28 17:14:08,460-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-02-28 17:14:08,577-BasePage-INFO-输入内容:admin
+2019-02-28 17:14:08,615-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-02-28 17:14:08,715-BasePage-INFO-输入内容:111111
+2019-02-28 17:14:08,754-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-02-28 17:14:08,809-BasePage-INFO-The element was click 
+2019-02-28 17:14:10,844-BasePage-INFO-找到页面元素('xpath', '//td/h2/a')
+2019-02-28 17:14:11,264-BasePage-INFO-The element was click 
+2019-02-28 17:14:13,307-BasePage-INFO-找到页面元素('id', 'subject')
+2019-02-28 17:14:13,411-BasePage-INFO-输入内容:city
+2019-02-28 17:14:13,447-BasePage-INFO-找到页面元素('id', 'fastpostmessage')
+2019-02-28 17:14:13,544-BasePage-INFO-输入内容:北京，上海，西安
+2019-02-28 17:14:13,580-BasePage-INFO-找到页面元素('xpath', '//p/button/strong')
+2019-02-28 17:15:24,641-BasePage-INFO-The element was click 
+2019-02-28 17:15:26,680-BasePage-INFO-找到页面元素('id', 'post_reply')
+2019-02-28 17:15:26,735-BasePage-INFO-The element was click 
+2019-02-28 17:15:26,882-BasePage-INFO-找到页面元素('id', 'postmessage')
+2019-02-28 17:15:26,951-BasePage-INFO-输入内容:想去
+2019-02-28 17:15:26,982-BasePage-INFO-找到页面元素('xpath', '//p/button/strong')
+2019-02-28 17:15:27,072-BasePage-INFO-The element was click 
+2019-02-28 17:15:27,148-BasePage-INFO-找到页面元素('link text', '退出')
+2019-02-28 17:15:27,369-BasePage-INFO-The element was click 

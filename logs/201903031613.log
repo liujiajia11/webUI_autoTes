@@ -1,0 +1,50 @@
+2019-03-03 16:13:26,470-BrowerseEngine-INFO-打开Chrome浏览器
+2019-03-03 16:13:26,470-BrowerseEngine-INFO-打开的url为：http://127.0.0.1/forum.php
+2019-03-03 16:13:28,793-BrowerseEngine-INFO-Starting Chrome browers
+2019-03-03 16:13:29,475-BrowerseEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-03 16:13:30,609-BrowerseEngine-INFO-Maximize the current window
+2019-03-03 16:13:30,611-BrowerseEngine-INFO-Set implicitly wait 10 seconds
+2019-03-03 16:13:30,644-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-03-03 16:13:30,751-BasePage-INFO-输入内容:admin
+2019-03-03 16:13:30,778-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-03-03 16:13:30,862-BasePage-INFO-输入内容:111111
+2019-03-03 16:13:30,895-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-03-03 16:13:30,957-BasePage-INFO-The element was click 
+2019-03-03 16:13:36,035-BasePage-INFO-找到页面元素('css selector', '.vwmy a')
+2019-03-03 16:13:36,060-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="de53318a71353132c7be045571989aa8", element="0.07574154634169616-1")>
+2019-03-03 16:13:36,091-BasePage-INFO-找到页面元素('xpath', '//tr[1]/td/h2/a')
+2019-03-03 16:13:36,410-BasePage-INFO-The element was click 
+2019-03-03 16:13:38,478-BasePage-INFO-找到页面元素('css selector', '#newspecial img')
+2019-03-03 16:13:38,892-BasePage-INFO-The element was click 
+2019-03-03 16:13:40,967-BasePage-INFO-找到页面元素('css selector', '.bm .tb li:nth-child(2) a')
+2019-03-03 16:13:41,516-BasePage-INFO-The element was click 
+2019-03-03 16:13:43,595-BasePage-INFO-找到页面元素('css selector', '.pbt .z .px')
+2019-03-03 16:13:43,768-BasePage-INFO-输入内容:你最喜欢吃的水果
+2019-03-03 16:13:43,823-BasePage-INFO-找到页面元素('css selector', '.mbm p:nth-child(3)  input')
+2019-03-03 16:13:43,963-BasePage-INFO-输入内容:草莓
+2019-03-03 16:13:44,184-BasePage-INFO-找到页面元素('css selector', '.mbm p:nth-child(2)  input')
+2019-03-03 16:13:44,340-BasePage-INFO-输入内容:哈密瓜
+2019-03-03 16:13:44,373-BasePage-INFO-找到页面元素('css selector', '.mbm p:nth-child(1)  input')
+2019-03-03 16:13:44,452-BasePage-INFO-输入内容:香蕉
+2019-03-03 16:13:44,494-BasePage-INFO-找到页面元素('xpath', '//div/button/span')
+2019-03-03 16:13:44,614-BasePage-INFO-The element was click 
+2019-03-03 16:13:47,159-BasePage-INFO-找到页面元素('css selector', '.ts span')
+2019-03-03 16:13:47,189-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="de53318a71353132c7be045571989aa8", element="0.6575236712711143-1")>
+2019-03-03 16:13:47,235-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(1) td:nth-child(1) input')
+2019-03-03 16:13:47,303-BasePage-INFO-The element was click 
+2019-03-03 16:13:47,346-BasePage-INFO-找到页面元素('xpath', '//button/span')
+2019-03-03 16:13:48,295-BasePage-INFO-The element was click 
+2019-03-03 16:13:53,362-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(1) td:nth-child(1) label')
+2019-03-03 16:13:53,399-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(3) td:nth-child(1) label')
+2019-03-03 16:13:53,437-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(5) td:nth-child(1) label')
+2019-03-03 16:13:53,482-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(2) td:nth-child(2) ')
+2019-03-03 16:13:53,530-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(4) td:nth-child(2) ')
+2019-03-03 16:13:53,588-BasePage-INFO-找到页面元素('css selector', '.pcht table tr:nth-child(6) td:nth-child(2) ')
+2019-03-03 16:13:53,630-BasePage-INFO-找到页面元素('xpath', '//h1/span')
+2019-03-03 16:13:53,663-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="de53318a71353132c7be045571989aa8", element="0.3505006717421748-1")>
+2019-03-03 16:13:53,688-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="de53318a71353132c7be045571989aa8", element="0.3505006717421748-2")>
+2019-03-03 16:13:53,705-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="de53318a71353132c7be045571989aa8", element="0.3505006717421748-3")>
+2019-03-03 16:13:53,729-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="de53318a71353132c7be045571989aa8", element="0.3505006717421748-4")>
+2019-03-03 16:13:53,748-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="de53318a71353132c7be045571989aa8", element="0.3505006717421748-5")>
+2019-03-03 16:13:53,777-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="de53318a71353132c7be045571989aa8", element="0.3505006717421748-6")>
+2019-03-03 16:13:53,799-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="de53318a71353132c7be045571989aa8", element="0.3505006717421748-7")>

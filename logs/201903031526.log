@@ -1,0 +1,32 @@
+2019-03-03 15:26:58,678-BrowerseEngine-INFO-打开Chrome浏览器
+2019-03-03 15:26:58,678-BrowerseEngine-INFO-打开的url为：http://127.0.0.1/forum.php
+2019-03-03 15:27:00,945-BrowerseEngine-INFO-Starting Chrome browers
+2019-03-03 15:27:01,864-BrowerseEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-03 15:27:03,041-BrowerseEngine-INFO-Maximize the current window
+2019-03-03 15:27:03,043-BrowerseEngine-INFO-Set implicitly wait 10 seconds
+2019-03-03 15:27:03,079-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-03-03 15:27:03,192-BasePage-INFO-输入内容:admin
+2019-03-03 15:27:03,229-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-03-03 15:27:03,319-BasePage-INFO-输入内容:111111
+2019-03-03 15:27:03,350-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-03-03 15:27:03,406-BasePage-INFO-The element was click 
+2019-03-03 15:27:08,447-BasePage-INFO-找到页面元素('css selector', '.vwmy a')
+2019-03-03 15:27:08,471-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="370ff741e085a1115042b5ff320a0275", element="0.22955635249418171-1")>
+2019-03-03 15:27:13,518-BasePage-INFO-找到页面元素('xpath', '//tr[1]/td/h2/a')
+2019-03-03 15:27:14,077-BasePage-INFO-The element was click 
+2019-03-03 15:27:16,130-BasePage-INFO-找到页面元素('id', 'subject')
+2019-03-03 15:27:16,233-BasePage-INFO-输入内容:city
+2019-03-03 15:27:16,265-BasePage-INFO-找到页面元素('id', 'fastpostmessage')
+2019-03-03 15:27:16,478-BasePage-INFO-输入内容:北京，上海，西安
+2019-03-03 15:27:16,541-BasePage-INFO-找到页面元素('xpath', '//p/button/strong')
+2019-03-03 15:27:18,466-BasePage-INFO-The element was click 
+2019-03-03 15:27:20,563-BasePage-INFO-找到页面元素('css selector', '.ts span')
+2019-03-03 15:27:20,595-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="370ff741e085a1115042b5ff320a0275", element="0.8785121121216437-1")>
+2019-03-03 15:27:20,622-BasePage-INFO-找到页面元素('id', 'post_reply')
+2019-03-03 15:27:20,674-BasePage-INFO-The element was click 
+2019-03-03 15:27:20,971-BasePage-INFO-找到页面元素('id', 'postmessage')
+2019-03-03 15:27:21,076-BasePage-INFO-输入内容:想去
+2019-03-03 15:27:21,108-BasePage-INFO-找到页面元素('xpath', '//p/button/strong')
+2019-03-03 15:27:21,227-BasePage-INFO-The element was click 
+2019-03-03 15:27:21,307-BasePage-INFO-找到页面元素('link text', '退出')
+2019-03-03 15:27:21,841-BasePage-INFO-The element was click 

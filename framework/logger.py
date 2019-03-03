@@ -1,27 +1,26 @@
 import logging
-import time
 import os.path
-class Logger:
+import time
+
+class Logger():
+
     def __init__(self,logger):
+        #创建一个logger对象
         self.logger=logging.getLogger(logger)
-        self.logger.setLevel(logging.DEBUG)
+        self.logger.setLevel(logging.DEBUG)  #日志输出的级别
 
-        # 输出到日志文件，设置
-        rq=time.strftime('%Y%m%d%H%M',time.localtime(time.time()))
-        log_path=os.path.dirname(os.path.abspath('.'))+"/logs/"
-        log_name=log_path+rq+'.log'
-        fh=logging.FileHandler(log_name)
-        fh.setLevel(logging.INFO)
-        # 输出到控制台
-        ch=logging.StreamHandler()
-        ch.setLevel(logging.INFO)
-
-        self.logger.addHandler(ch)
+        log_path=os.path.dirname(os.path.abspath("."))+"/logs/"
+        nf=time.strftime("%Y%m%d%H%M",time.localtime(time.time()))       #当前日期
+        log_name=log_path+nf+".log"
+        fh=logging.FileHandler(log_name)          #日志输出到文件
         self.logger.addHandler(fh)
-        # 定义输出格式
-        formatter =logging.Formatter('%(asctime)s - %(name)s -%(levelname)s -%(message)s')
-        fh.setFormatter(formatter)
-        ch.setFormatter(formatter)
+
+        ch = logging.StreamHandler()  # 日志输出到控制台
+        self.logger.addHandler(ch)
+
+        #日志输出格式
+        self.formatter=logging.Formatter("%(asctime)s-%(name)s-%(levelname)s-%(message)s")
+        ch.setFormatter(self.formatter)
+        fh.setFormatter(self.formatter)
     def getlog(self):
         return self.logger
-

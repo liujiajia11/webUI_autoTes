@@ -1,0 +1,67 @@
+2019-03-03 15:18:07,850-BrowerseEngine-INFO-打开Chrome浏览器
+2019-03-03 15:18:07,850-BrowerseEngine-INFO-打开的url为：http://127.0.0.1/forum.php
+2019-03-03 15:18:10,180-BrowerseEngine-INFO-Starting Chrome browers
+2019-03-03 15:18:10,767-BrowerseEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-03 15:18:11,925-BrowerseEngine-INFO-Maximize the current window
+2019-03-03 15:18:11,926-BrowerseEngine-INFO-Set implicitly wait 10 seconds
+2019-03-03 15:18:11,971-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-03-03 15:18:12,097-BasePage-INFO-输入内容:admin
+2019-03-03 15:18:12,129-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-03-03 15:18:12,233-BasePage-INFO-输入内容:111111
+2019-03-03 15:18:12,269-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-03-03 15:18:12,322-BasePage-INFO-The element was click 
+2019-03-03 15:18:17,356-BasePage-INFO-找到页面元素('css selector', '.vwmy a')
+2019-03-03 15:18:17,383-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="007da84f386e99b703bf91cfedf672a1", element="0.7863377481643741-1")>
+2019-03-03 15:18:18,416-BasePage-INFO-找到页面元素('xpath', '//tr[1]/td/h2/a')
+2019-03-03 15:18:18,890-BasePage-INFO-The element was click 
+2019-03-03 15:18:19,976-BasePage-INFO-找到页面元素('name', 'moderate[]')
+2019-03-03 15:18:20,060-BasePage-INFO-The element was click 
+2019-03-03 15:18:20,215-BasePage-INFO-找到页面元素('link text', '删除')
+2019-03-03 15:18:20,673-BasePage-INFO-The element was click 
+2019-03-03 15:18:20,756-BasePage-INFO-找到页面元素('id', 'modsubmit')
+2019-03-03 15:18:21,483-BasePage-INFO-The element was click 
+2019-03-03 15:18:26,569-BasePage-INFO-找到页面元素('link text', '管理中心')
+2019-03-03 15:18:26,681-BasePage-INFO-The element was click 
+2019-03-03 15:18:26,685-BasePage-INFO-Activate second window
+2019-03-03 15:18:27,821-BasePage-INFO-找到页面元素('css selector', '#loginform p:nth-child(6) input')
+2019-03-03 15:18:27,916-BasePage-INFO-输入内容:111111
+2019-03-03 15:18:27,945-BasePage-INFO-找到页面元素('name', 'submit')
+2019-03-03 15:19:08,500-BasePage-INFO-The element was click 
+2019-03-03 15:19:18,550-BasePage-INFO-找到页面元素('id', 'header_forum')
+2019-03-03 15:19:18,915-BasePage-INFO-The element was click 
+2019-03-03 15:19:22,128-BasePage-INFO-Succerfully switch to frame
+2019-03-03 15:19:22,159-BasePage-INFO-找到页面元素('css selector', '.lastboard .addtr')
+2019-03-03 15:19:22,267-BasePage-INFO-The element was click 
+2019-03-03 15:19:22,301-BasePage-INFO-找到页面元素('name', 'newforum[1][]')
+2019-03-03 15:19:22,382-BasePage-INFO-输入内容:star
+2019-03-03 15:19:22,411-BasePage-INFO-找到页面元素('id', 'submit_editsubmit')
+2019-03-03 15:19:22,759-BasePage-INFO-The element was click 
+2019-03-03 15:19:22,761-BasePage-INFO-Succerfully switch to frame
+2019-03-03 15:19:26,001-BasePage-INFO-找到页面元素('link text', '退出')
+2019-03-03 15:19:26,452-BasePage-INFO-The element was click 
+2019-03-03 15:19:26,477-BasePage-INFO-Closing and quit this browers.
+2019-03-03 15:19:26,487-BasePage-INFO-Activate first window
+2019-03-03 15:19:26,552-BasePage-INFO-找到页面元素('link text', '退出')
+2019-03-03 15:19:26,853-BasePage-INFO-The element was click 
+2019-03-03 15:19:29,150-BasePage-INFO-找到页面元素('id', 'ls_username')
+2019-03-03 15:19:29,238-BasePage-INFO-输入内容:liujiajia
+2019-03-03 15:19:29,265-BasePage-INFO-找到页面元素('id', 'ls_password')
+2019-03-03 15:19:29,337-BasePage-INFO-输入内容:666666
+2019-03-03 15:19:29,367-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-03-03 15:19:29,416-BasePage-INFO-The element was click 
+2019-03-03 15:19:34,484-BasePage-INFO-找到页面元素('css selector', '.vwmy a')
+2019-03-03 15:19:34,507-BasePage-INFO-取得的内容:<selenium.webdriver.remote.webelement.WebElement (session="007da84f386e99b703bf91cfedf672a1", element="0.1047197026980784-1")>
+2019-03-03 15:19:45,655-BasePage-ERROR-<pageobjects.disciz02.SecondDisciz object at 0x0000025C76D500F0> 页面中找不到 ('xpath', '//tr[2]/td/h2/a')元素
+2019-03-03 15:19:45,656-BasePage-ERROR-Failed to clickelement with 'NoneType' object has no attribute 'click'
+2019-03-03 15:19:45,722-BasePage-INFO-找到页面元素('id', 'subject')
+2019-03-03 15:19:45,874-BasePage-INFO-输入内容:Let's go
+2019-03-03 15:19:45,929-BasePage-INFO-找到页面元素('id', 'fastpostmessage')
+2019-03-03 15:19:46,112-BasePage-INFO-输入内容:I went to Beijing
+2019-03-03 15:19:48,193-BasePage-INFO-找到页面元素('xpath', '//p/button/strong')
+2019-03-03 15:19:50,886-BasePage-INFO-The element was click 
+2019-03-03 15:19:55,965-BasePage-INFO-找到页面元素('id', 'post_reply')
+2019-03-03 15:19:56,012-BasePage-INFO-The element was click 
+2019-03-03 15:19:56,310-BasePage-INFO-找到页面元素('id', 'postmessage')
+2019-03-03 15:19:56,402-BasePage-INFO-输入内容:welcome
+2019-03-03 15:19:56,426-BasePage-INFO-找到页面元素('xpath', '//p/button/strong')
+2019-03-03 15:19:56,512-BasePage-INFO-The element was click 
