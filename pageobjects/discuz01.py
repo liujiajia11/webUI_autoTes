@@ -28,7 +28,7 @@ class OneDiscuz(BasePage):
     huifu_submit_huifu_loc=(By.ID,'fastpostsubmit')
     assert_text_huifu_loc=(By.CSS_SELECTOR,'#postmessage_92')
 
-    logout_button_logout_loc=(By.CSS_SELECTOR,'#um > p:nth-child(2) > a:nth-child(12)')
+    logout_button_logout_loc=(By.CSS_SELECTOR,'#um > p:nth-child(2) > a:nth-child(13)')
 
     def login(self,name,pwd):
         self.sendkeys(name,*self.name_input_login_loc)
@@ -68,13 +68,17 @@ class OneDiscuz(BasePage):
         self.sendkeys(huifu_body,*self.huifu_input_huifu_loc)
         self.click(*self.huifu_submit_huifu_loc)
         # self.current_window_handle()
-        expect=self.text(self.find_element(*self.assert_text_huifu_loc))
-        self.unittest_testcase.assertEqual(huifu_body,expect,msg=expect)
+        # expect=self.text(self.find_element(*self.assert_text_huifu_loc))
+        # self.unittest_testcase.assertEqual(huifu_body,expect,msg=expect)
 
     def logout(self):
         self.current_window_handle()
         self.click(*self.logout_button_logout_loc)
         self.wait()
+        self.current_window_handle()
+        self.unittest_testcase.assertIsNotNone(*self.login_button_login_loc)
+
+
 
 
 

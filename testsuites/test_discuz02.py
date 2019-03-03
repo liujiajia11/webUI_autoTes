@@ -21,7 +21,7 @@ class DiscuzTwoTest(BaseTestCase):
 
          od.login("123456","123456")
          time.sleep(3)
-         td.newfatie()
+         td.newbankuaifatie()
 
          od.fatie("新帖2","新帖2的内容")
          od.huifu("新帖2的回复内容")
